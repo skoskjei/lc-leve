@@ -1,0 +1,6 @@
+Legg sponsorlogoer i denne mappen.
+
+Anbefalt format: SVG.
+Alternativ: PNG med transparent bakgrunn.
+
+Registrer deretter sponsoren i sponsors-listen i script.js.
